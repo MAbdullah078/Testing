@@ -1,0 +1,305 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
+.un{
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 16px;
+}
+.pb{
+    font-family: roboto;
+    font-weight: lighter;
+    font-size: 14px;
+}
+.lo{
+    font-family: roboto;
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+#We_found_304_results {
+	left: 68px;
+	top: 131px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	line-height: 31.200000762939453px;
+	margin-top: -8.600000381469727px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(119,120,123,1);
+}
+#Group_84605 {
+	position: absolute;
+	width: 742px;
+	height: 231px;
+	left: 68px;
+	top: 164px;
+	overflow: visible;
+}
+#Rectangle_4275 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_4275 {
+	filter: drop-shadow(0px 0px 1.5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 746.5px;
+	height: 235.5px;
+	left: 0px;
+	top: 0px;
+}
+#Taylors_University_World_Class {
+	left: 77px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 311px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Provided_by_Taylors_University {
+	left: 77px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet_at_ {
+	left: 77px;
+	top: 66px;
+	position: absolute;
+	overflow: visible;
+	width: 515px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(119,120,123,1);
+}
+#Path_42274 {
+	fill: transparent;
+	stroke: rgba(69,69,69,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_42274 {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 17.007px;
+	left: 671.999px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_84889 {
+	transform: translate(-6397px, 11100px) matrix(1,0,0,1,7106,-11077) rotate(90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 16px;
+	height: 4px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape {
+	fill: rgba(69,69,69,1);
+}
+.Shape {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 4px;
+	transform: translate(188px, -772px) matrix(1,0,0,1,784,184) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Shape_cl {
+	fill: rgba(69,69,69,1);
+}
+.Shape_cl {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 4px;
+	transform: translate(188px, -772px) matrix(1,0,0,1,772,184) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Shape_cm {
+	fill: rgba(69,69,69,1);
+}
+.Shape_cm {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 4px;
+	transform: translate(188px, -772px) matrix(1,0,0,1,778,184) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_84940 {
+	position: absolute;
+	width: 41px;
+	height: 41px;
+	left: 18px;
+	top: 12px;
+	overflow: visible;
+}
+#NoPath_-_Copy_10 {
+	position: absolute;
+	width: 41px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_84941 {
+	position: absolute;
+	width: 122px;
+	height: 38px;
+	left: 77.089px;
+	top: 122px;
+	overflow: visible;
+}
+#Deadline {
+	left: 28px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -14px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#ID18_March_2020 {
+	left: 28px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -13px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Icon_open-timer {
+	fill: rgba(43,104,160,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.800000011920929px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Icon_open-timer {
+	overflow: visible;
+	position: absolute;
+	width: 17.5px;
+	height: 19.971px;
+	transform: translate(0px, 2px) matrix(1,0,0,1,0,1) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_84942 {
+	position: absolute;
+	width: 141.41px;
+	height: 38px;
+	left: 536.089px;
+	top: 122px;
+	overflow: visible;
+}
+#Amount {
+	left: 25.41px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -14px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#USD_2915_per_year {
+	left: 25.41px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -13px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#surface1 {
+	position: absolute;
+	width: 14.424px;
+	height: 19.514px;
+	left: 0px;
+	top: 3.486px;
+	overflow: visible;
+}
+#Path_2048 {
+	fill: rgba(43,104,160,1);
+	stroke: rgba(43,104,160,1);
+	stroke-width: 0.10000000149011612px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2048 {
+	overflow: visible;
+	position: absolute;
+	width: 4.34px;
+	height: 4.341px;
+	left: 0.001px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
